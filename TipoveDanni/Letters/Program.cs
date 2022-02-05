@@ -7,17 +7,19 @@ namespace Letters
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            for (int i = 0; i < n-1; i++)
+            int broi = 0;
+            for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < n-1; j++)
+                for (int j = 0; j < n; j++)
                 {
-                    for (int k = 0; k < n-1; k++)
+                    for (int k = 0; k < n; k++)
                     {
-                        char letter = (char)('a' + n);
-                        
+                        Console.WriteLine($"{(char)('a'+i)}{(char)('a'+j)}{(char)('a'+k)}");
+                        broi++;
                     }
                 }
             }
+            Console.WriteLine(broi);
             
         }
     }
