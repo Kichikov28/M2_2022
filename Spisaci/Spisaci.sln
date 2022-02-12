@@ -15,17 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOfEnd", "ListOfEnd\List
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfReversedNumbers", "SumOfReversedNumbers\SumOfReversedNumbers.csproj", "{52D42BC3-A9D5-419B-9786-AB35F747711C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNumber", "RemoveNumber\RemoveNumber.csproj", "{77B1DD2F-8993-4454-9E81-B83483F5C96D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNumber", "RemoveNumber\RemoveNumber.csproj", "{77B1DD2F-8993-4454-9E81-B83483F5C96D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3", "Demo3\Demo3.csproj", "{16698617-4523-4F05-91B7-CA6BA568CF88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo3", "Demo3\Demo3.csproj", "{16698617-4523-4F05-91B7-CA6BA568CF88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveItem", "RemoveItem\RemoveItem.csproj", "{5E1E6F5C-B3DD-48CF-81F9-2C27B331C0FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveItem", "RemoveItem\RemoveItem.csproj", "{5E1E6F5C-B3DD-48CF-81F9-2C27B331C0FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeLists", "MergeLists\MergeLists.csproj", "{CEB7FEE2-2BB9-43F3-B338-107DE1BED123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeLists", "MergeLists\MergeLists.csproj", "{CEB7FEE2-2BB9-43F3-B338-107DE1BED123}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersSorting", "NumbersSorting\NumbersSorting.csproj", "{D6699052-61D8-44FA-997D-9A7187A384DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersSorting", "NumbersSorting\NumbersSorting.csproj", "{D6699052-61D8-44FA-997D-9A7187A384DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{6A2295D1-3562-4349-AD32-1F94971CF528}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{6A2295D1-3562-4349-AD32-1F94971CF528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{07AA41C5-86D3-47EA-8BA2-3EB63E9B572D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{6A2295D1-3562-4349-AD32-1F94971CF528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A2295D1-3562-4349-AD32-1F94971CF528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A2295D1-3562-4349-AD32-1F94971CF528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AA41C5-86D3-47EA-8BA2-3EB63E9B572D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AA41C5-86D3-47EA-8BA2-3EB63E9B572D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AA41C5-86D3-47EA-8BA2-3EB63E9B572D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AA41C5-86D3-47EA-8BA2-3EB63E9B572D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
