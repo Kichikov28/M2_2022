@@ -3,25 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{FFC12B85-0875-4958-B153-E46C34493B5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{FFC12B85-0875-4958-B153-E46C34493B5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1", "Demo1\Demo1.csproj", "{74ECC7AB-882D-4048-92A5-BC2F55CD5AE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1", "Demo1\Demo1.csproj", "{74ECC7AB-882D-4048-92A5-BC2F55CD5AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo2", "Demo2\Demo2.csproj", "{76E26735-80C0-413D-A4A3-5BA631DD2823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo2", "Demo2\Demo2.csproj", "{76E26735-80C0-413D-A4A3-5BA631DD2823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B5135A66-F26B-4544-8C65-D6734965BA2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B5135A66-F26B-4544-8C65-D6734965BA2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printsign", "Printsign\Printsign.csproj", "{CF107904-46BF-4AFD-A31A-A2E8925084F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Printsign", "Printsign\Printsign.csproj", "{CF107904-46BF-4AFD-A31A-A2E8925084F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawSquare", "DrawSquare\DrawSquare.csproj", "{BAC4A21E-F9DF-4F55-993B-F89D5ACBE4B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawSquare", "DrawSquare\DrawSquare.csproj", "{BAC4A21E-F9DF-4F55-993B-F89D5ACBE4B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fahrenheit", "Fahrenheit\Fahrenheit.csproj", "{6C93FAC4-46D9-4805-B730-48391C6BAEED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fahrenheit", "Fahrenheit\Fahrenheit.csproj", "{6C93FAC4-46D9-4805-B730-48391C6BAEED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaTriangle", "AreaTriangle\AreaTriangle.csproj", "{A7932648-B724-4156-828A-CB8BE19F54CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaTriangle", "AreaTriangle\AreaTriangle.csproj", "{A7932648-B724-4156-828A-CB8BE19F54CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powing", "Powing\Powing.csproj", "{CDA8CE67-57FB-4303-8671-9C48215C28AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Powing", "Powing\Powing.csproj", "{CDA8CE67-57FB-4303-8671-9C48215C28AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggerNumber", "BiggerNumber\BiggerNumber.csproj", "{60BD92DB-197F-489F-BE61-995BCF795950}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiggerNumber", "BiggerNumber\BiggerNumber.csproj", "{60BD92DB-197F-489F-BE61-995BCF795950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterValue", "GreaterValue\GreaterValue.csproj", "{0F6EEE0B-605C-43E7-B61B-D2B937803D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedWord", "ReversedWord\ReversedWord.csproj", "{AED5A682-2AFF-4892-9AF1-4207D5351CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAscII", "SumAscII\SumAscII.csproj", "{D11C267A-9D58-42EF-8EF6-934FA3133DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{A812A793-5C46-4B6B-BF74-EF4097D89321}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,22 @@ Global
 		{60BD92DB-197F-489F-BE61-995BCF795950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60BD92DB-197F-489F-BE61-995BCF795950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60BD92DB-197F-489F-BE61-995BCF795950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6EEE0B-605C-43E7-B61B-D2B937803D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6EEE0B-605C-43E7-B61B-D2B937803D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6EEE0B-605C-43E7-B61B-D2B937803D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6EEE0B-605C-43E7-B61B-D2B937803D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED5A682-2AFF-4892-9AF1-4207D5351CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED5A682-2AFF-4892-9AF1-4207D5351CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED5A682-2AFF-4892-9AF1-4207D5351CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED5A682-2AFF-4892-9AF1-4207D5351CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11C267A-9D58-42EF-8EF6-934FA3133DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11C267A-9D58-42EF-8EF6-934FA3133DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11C267A-9D58-42EF-8EF6-934FA3133DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11C267A-9D58-42EF-8EF6-934FA3133DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A812A793-5C46-4B6B-BF74-EF4097D89321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A812A793-5C46-4B6B-BF74-EF4097D89321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A812A793-5C46-4B6B-BF74-EF4097D89321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A812A793-5C46-4B6B-BF74-EF4097D89321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
